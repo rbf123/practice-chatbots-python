@@ -1,7 +1,8 @@
 # practice-chatbots-python
 Practice creating chatbots using python
 
-Coffee Chatbot: User can place multiple orders to get multiple coffee drinks using loops, lists and functions in python. This chatbot builds on the previous coffee chatbot that only uses functions to take one order. 
+Coffee Chatbot: User can place multiple orders to get multiple coffee drinks using loops, lists and functions in python. The coffee chatbot will try to upsell an item to the user placing the order - in this case, 'the limited edition peppermint mocha'.
+This chatbot builds on the previous coffee chatbot that only uses functions to take one order. 
 
 (Photos attached show the chatbot in action)
 
